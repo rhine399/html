@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    hello im <b>rhine</b> <br>
+    im from <strong>bangladesh<strong> <br>
+        im in <i>9th grade</i> <br>
+        im in <em>birshreshtha noor muhammad public college
+        </em> <br>
+        my favourite subjects are <mark>science and ict </mark> <br>
+        i like <small> listening to music</small> <br>
+        (a+b)<sup>2</sup> <br>
+    h<sub>2</sub>0 <br>
+    <del>rhine onek bhalo</del> <br>
+    <q>lobhe paap paape mrittu</q>
+</body>
+</html>
