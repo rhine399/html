@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://www.codingal.com/bn-bd/student/dashboard/competitions/?state=live"> click here to the competitions going on right now</a>
+    <ul>
+<li>fish</li>
+<li>sunflower oil</li>
+<li>butter</li>
+    </ul>
+    <ol>
+        <li>fish</li>
+        <li>sunflower oil</li>
+        <li>butter</li>
+            </ol>
+        <table border="5">
+            <tr>
+<td>company</td>
+<td>contact</td>
+<td>country</td>
+            </tr>
+            <tr>
+                <td>Alfreds Futterkiste</td>
+                <td>Maria anders</td>
+                <td>Germany</td>
+                <tr>
+                    <td>centro commercial moctezuma</td>
+                    <td>Fransisco Chang</td>
+                    <td>Mexico</td>
+                                </tr>       
+        </table>
+</body>
+</html>
