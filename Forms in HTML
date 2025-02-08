@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>this is a form</h3>
+    <fieldset>
+        <legend>personal details</legend>
+        <label>name</label><br>
+        <input type="name" id="name" placeholder="enter your full name"> <br>
+        <label>age</label><br>
+        <input type="number" id="age" placeholder="enter your age"> <br>
+        <label>password</label><br>
+        <input type="password" id="password" placeholder="enter your password"> <br>
+        <br>
+
+            <input type="radio"  id="female" name="gender" value="female">female <br>
+            <input type="radio"  id="male" name="gender" value="male">male <br>
+            <input type="radio" id="other" name="gender" value="other">other <br>
+            <input type="checkbox" id="city" name="city" value="Dhaka"> Dhaka <br>
+            <label>choose your  favourite subject:</label>
+            <select name="subject" id="subject">
+                <option value="ICT">ICT</option>
+                <option value="Math">Math</option>
+                <option value="English">English</option>
+                <option value="Higher Math">Higher Math</option>
+                <option value="BGS">BGS</option>
+                
+
+            </select>
+            
+            
+            
+    </fieldset>
+</body>
+</html>
