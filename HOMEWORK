@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-color: rgb(147, 112, 95);
+    }
+    body{
+        color: rgb(2, 0, 0);
+    }
+        mark{
+            color: rgb(100, 8, 57);
+        }
+        #n{color: rgb(108, 15, 86);}
+        strong{
+            color: rgb(29, 15, 65);
+        }
+        h3{
+            color: rgba(95, 172, 198, 0.586);
+        }
+        body{
+        background-image: url('https://johnpetrucci.com/wp-content/uploads/2020/04/young_guitar_5.jpg');
+        background-repeat: no-repeat;
+        background-position: right;
+        background-attachment: scroll;
+        background-size: 300px;
+    }
+    #z::first-letter{
+        font-size: 150%;
+    }
+    .example01 {
+        width: 400px;
+        background-color: rgb(226, 92, 43);
+        /* top right bottom left*/
+        padding: 20px 10px 40px 20px;
+        border: 30px solid rgb(94, 63, 5); 
+        margin: 20px;
+
+
+    
+
+        
+
+</style>
+<body>
+    <h1>The legends of the M E T A L</h1><hr>
+    <p class="example01">this is a page by a Fanguy who is just in love with good music,So he's just going to yap about his favourite musicians.</p>
+    <br>
+    <br>
+    <br>
+    <h3>Alexi Laiho:</h3>
+    <img src="https://arrowlordsofmetal.nl/wp-content/uploads/2020/03/202002_News_Children-Of-Bodom-Laiho.jpg"
+    alt="alexi 202002_News_Children-Of-Bodom-Laiho" width="200">
+    <br>
+    This is our guy <mark>Alexi Laiho.</mark>Omg man this man is an absoloute genius.
+    Sir is the lead vocal and guitarist of <strong>CHILDREN OF BODOM</strong>
+    . The reason he is one of the <bold>"greatest metal artist ever</bold>
+    for his absoloute complicated guitar riffs and the sweeps and solos. <br>
+    <i>Children of bodom</i> has 10  albums which are: <br>
+    <br>
+<table border="2">
+     <tr>
+        
+        <td>A L B U M S</td> 
+        <tr>
+            <tr>
+                <td>Follow the reaper </td>
+                <tr>
+                    <td>hatebreeder</td>
+                    <tr>
+                        <td>Hate Crew Deathroll</td>
+                        <tr>
+                            <td>Are You Dead Yet?</td>
+                            <tr>
+                                <td>Something Wild</td>
+                                <tr>
+                                    <td>Hexed</td>
+                                    <tr>
+                                        <td>Blooddrunk</td>
+                                        <tr>
+                                            <td>Halo of Blood</td>
+                                            <tr>
+                                                <td>I Worship Chaos</td>
+                                                <tr>
+                                                    <td>Relentless Reckless Forever</td>
+                                                    <table>
+                        <br>
+                        <br>
+                     <h3>Dimebag Darrel:</h3>
+                     <img src="https://e1.pxfuel.com/desktop-wallpaper/303/323/desktop-wallpaper-dimebag-darrell-dimebag-darrel-thumbnail.jpg"
+                     alt="Dimebag" width="200" height="350"> <br>
+                     <strong>Dimebag Darrel Lance Abbot</strong> (August 20, 1966- December 8,2004).
+                     The lead guitarist of the Thrash Metal band <mark>Pantera.</mark>
+                     Every guitarist will admit that all the compositions of Dimebag 
+                     are the  most toughest riffs. Also frankly till today after him, no one really
+                     played the Pantera songs the way Dimebag played cos his playing was quite impossible
+                     and only a guitarist with good practice can only play like him. The death of Dimebag was really
+                     tragic for the metal scene.Pantera has realeasd 21 albums and <strong>the top 5 albums are: </strong> <br>
+                     <br>
+                     <br>
+                     <table border="2">
+                        <tr>
+                   
+                           <td>A L B U M S</td> 
+                           <tr>
+                            <tr>
+                                <td>The Great Southern Trendkill </td>
+                                <tr>
+                                    <td>Cowboys From Hell </td>
+                                    <tr>
+                                        <td>Vulgur Display of Power </td>
+                                        <tr>
+                                            <td>Far Beyond Driven </td>
+                                            </table> 
+                                            <br>
+            <br>
+            <br>
+            <h3>Dave Mustaine:</h3> <br>
+            <img src="https://townsquare.media/site/366/files/2022/03/attachment-megadeth_dave_mustaine_1988.jpg?w=780&q=75" alt="Dave Mustaine"
+            width="350" >
+            <br>
+            <strong>David Scott Mustaine</strong> (Born 1961 September 13,1961)
+            is the Vocal and the guitarist of the thrash metal band <mark>Megadeth.</mark>
+The speciality of Mustaine is his background music in Megadeth.
+His complicated riffs (mostly in 150-182 bpm) made the songs more heavy and creative.
+There always have been a competition between the heavy metal band <strong>Metallica</strong>
+and Megadeth about their albums. In my opinion megadeth and metallica can't be compared
+because megadeth's song is more different and "heavier" and Metallica is also heavy with a little
+bit of "beauty". The <strong> top 5 albums of Megadeth</strong> are: <br>
+<br>
+            
+           <table border="2">
+     <tr>
+
+        <td>A L B U M S</td> 
+        <tr>
+            <tr>
+                <td>Peace sells... But Who's Buying? </td>
+                <tr>
+                    <td>Rust In Peace</td>
+                    <tr>
+                        <td>Super Collider</td>
+                        <tr>
+                            <td>Killing Is My Business... But Business Is Good!</td>
+                            <tr>
+                                <td>So Far So Good. So What!</td>
+                                <table>
+                                    <br>
+                                    <br>
+                                    <h3>John Petrucci:</h3>
+                                    <br>
+                                    <br>
+                                    <img src="https://i.pinimg.com/736x/16/86/01/1686013cd72894632197c23fe52f75a7.jpg" alt="John Petrucci"
+                                    width="200" height="300"> 
+                                    <br>
+                                    <strong>John Petrucci</strong> (Born July 12, 1967)
+                                    is the lead guitarist of the prog metal band <mark>Dream Theater.</mark>
+                                    Whatever I say about this guy is less because he's just amazing. The beauty of Dream theater is their extremly 
+                                    complicated odd time signatures in their songs (most of them are nearly an half hour)
+                                    and if you want to learn their songs..... you want to kill yourself- <br>
+                                    John Petrucci has also influenced a lots of musicians who are at the peak of their success now.
+                                    Every albums of Dream Theater is extremly magical but if I still have to mention some they are:<br>
+                                    <br>
+                                    <table border="2">
+                                        <tr>
+                                   
+                                           <td>A L B U M S</td> 
+                                           <tr>
+                                            <tr>
+                                                <td>Awake </td>
+                                                <tr>
+                                                    <td>Images and Words </td>
+                                                    <tr>
+                                                        <td>Metropolis pt 2: scenes from  a memory </td>
+                                                        <tr>
+                                                            <td>Six Degrees of Inner Turbulence </td>
+                                                            </table> 
+                                                            <br>
+                                                            <br>
+                                                            <h1>D R U M E R S</h1>
+                                                            <br>
+                                                            <h3>Mike Portnoy:</h3>
+                                                            <br>
+                                                            <br>
+                                                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Transatlantic_au_Night_of_the_Prog_-_12_%2814524207019%29_%28cropped%29.jpg/800px-Transatlantic_au_Night_of_the_Prog_-_12_%2814524207019%29_%28cropped%29.jpg"
+                                                            width="350" height="400"> <br>
+                                                            <strong style="color: rgb(59, 11, 104);">Mike Portnoy </strong> (born in april 20,1967) is the most first 
+                                                            guy to talk about in every topic of metal drummers. Obviously,
+                                                            Mike Portnoy is the drummer of the most prog metal band <mark>Dream Theater.</mark>
+                                                            He left the band for some years but now he's back again.
+                                                            The amazing thing of him is he puts complicated double kick patterns in the songs 
+                                                            which makes the drumming really amusing to listen. Also they're are some many reasons
+                                                            why he's so entertaining. He also played as guest member in many famous bands like
+                                                            <mark>Avenged Sevenfold, Joe Satriani,Twisted Sister,Metal Allegiance,
+                                                                BPMD and Yellow Matter Custurd.</mark> Besides Dream Theater, He also has a band called <div style="color: rgb(28, 58, 89);">"The Winery Dogs"</div>
+                                                                which is also in the level of Dream Theater. <br>
+                                                                <br>
+                                                                <h3>Joey Jordison:</h3>
+                                                                
+                                                                <img src="https://variety.com/wp-content/uploads/2021/07/Joey-Jordison.jpg?w=1000&h=563&crop=1"
+                                                                width="400" height="250"> <br>
+                                                                <strong> Jonas "Joey" Jordison</strong> (April 26, 1975 – July 26, 2021) was an American musician. 
+                                                                He was the original drummer of the nu metal band Slipknot,
+                                                                 in which he was designated #1. He played in bands like
+                                                                 <div id="n">Murderdolls, Rob Zombies, Metallica and KoRn.</div> <br> <br>
+                                                                 <h3>Danny Carey:</h3>
+                                                                 <img src="https://maubrecht.wordpress.com/wp-content/uploads/2019/04/danny-carey-opener.jpg" alt="Danny Carey" height="400">
+                                                                 <br>
+                                                                 <br>
+                                                                <strong> Daniel Edwin "Danny" Carey,</strong> born May 10, 1961 in Lawrence, Kansas,
+                                                                  is an American drummer and instrumentalist best known for his work in American Grammy Award-winning progressive rock band Tool.
+                                                                   He has also contributed to albums by and played with such artists as <div style="color: rgb(31, 31, 60);"> Green Jellÿ, Pigface, Skinny Puppy, Adrian Belew of King Crimson,
+                                                                    Carole King, Collide, The Wild Blue Yonder, Lusk, and the Melvins.</div> <br>
+                                                                    <br> <p id="z">If you want to know more about these legends and the stuffs about music have fun in the website of 
+                                                                        "Loudwire".
+                                                                        
+                                                                    </p>
+                                                                    
+                                                                    <a href="https://loudwire.com/">
+                                                                        Loudwire</a>
+
+
+
+
+
+            
+
+
+                    
+                
+
+</body>
+</html>
