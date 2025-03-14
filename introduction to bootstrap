@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+    <style>
+        .col {
+
+text-align:center;
+
+border:1px solid rgb(82, 11, 11);
+
+}
+    </style>
+
+</head>
+
+
+<body>
+    <h3>Equal Width Collumn Grid</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                collumn 01
+            </div>
+            <div class="col">
+                collumn 02
+            </div>
+            <div class="col">
+                collumn 03
+            </div>
+
+
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-lg-12 col-sm-12" style="background-color: rgb(130, 107, 152);">
+                s
+            </div></div>
+            <div class="row"><div class="col-md-12 col-lg-6" style="background-color: rgb(85, 79, 91);">
+                m
+            </div></div>
+            <div class="row">
+                <div class="col-md-8 col-lg-12" style="background-color: rgb(167, 139, 70);">
+               j </div>
+
+        
+
+            </div>
+
+        </div>
+    </div>
+    
+</body>
+</html>
