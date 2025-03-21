@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container  pb-5 mb-3 bg-danger text-warning" >
+        <h1>My First Bootstrap Page</h1>
+        <p>this page is inside a .container class.</p>
+        <p>the container class provides a responsive fixed width 
+            container.</p>
+    </div>   
+    <div class="container-fluid bg-danger text-warning" >
+        <h1>My First Bootstrap Page</h1>
+        <p>this page is inside a .container class.</p>
+        <p>the container class provides a responsive fixed width 
+            container.</p>
+    </div>  
+    <div class="container bg-primary text-dark" >
+        <h1>My First Bootstrap Page</h1>
+        <p>this page is inside a .container class.</p>
+        <p>the container class provides a responsive fixed width 
+            container.</p></div>
+            <div class="container-fluid bg-primary text-dark" >
+                <h1>My First Bootstrap Page</h1>
+                <p>this page is inside a .container class.</p>
+                <p>the container class provides a responsive fixed width 
+                    container.</p></div>
+                    <div class="container pb-5 mb-3 bg-primary text-dark" >
+                        <h1>My First Bootstrap Page</h1>
+                        <p>this page is inside a .container class.</p>
+                        <p>the container class provides a responsive fixed width 
+                            container.</p></div>
+                            <div class="container-fluid bg-primary text-dark" >
+                                <h1>My First Bootstrap Page</h1>
+                                <p>this page is inside a .container class.</p>
+                                <p>the container class provides a responsive fixed width 
+                                    container.</p></div>
+                                    <div class="container p-5 m-5 bg-success text-warning" >
+                                        <h1>My First Bootstrap Page</h1>
+                                        <p>this page is inside a .container class.</p>
+                                        <p>the container class provides a responsive fixed width 
+                                            container.</p></div>
+                                            <div class="container-fluid bg-success text-warning" >
+                                                <h1>My First Bootstrap Page</h1>
+                                                <p>this page is inside a .container class.</p>
+                                                <p>the container class provides a responsive fixed width 
+                                                    container.</p></div>
+                                                    <div class="container bg-warning text-secondary" >
+                                                        <h1>My First Bootstrap Page</h1>
+                                                        <p>this page is inside a .container class.</p>
+                                                        <p>the container class provides a responsive fixed width 
+                                                            container.</p></div>
+                                                            <div class="container-fluid bg-warning text-secondary" >
+                                                                <h1>My First Bootstrap Page</h1>
+                                                                <p>this page is inside a .container class.</p>
+                                                                <p>the container class provides a responsive fixed width 
+                                                                    container.</p></div>
+                                                                    <div class="container bg-light text-dark" >
+                                                                        <h1>My First Bootstrap Page</h1>
+                                                                        <p>this page is inside a .container class.</p>
+                                                                        <p>the container class provides a responsive fixed width 
+                                                                            container.</p></div>
+                                                                            <div class="container bg-white text-dark" >
+                                                                                <h1>My First Bootstrap Page</h1>
+                                                                                <p>this page is inside a .container class.</p>
+                                                                                <p>the container class provides a responsive fixed width 
+                                                                                    container.</p></div>
+
+                            
+
+
+</body>
+</html>
