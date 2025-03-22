@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<style>
+    body{
+        background-color: blueviolet;
+    }
+</style>
+<body style="text-align: center;">
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 style="color: orangered;">
+            Codingal
+        </h1>
+        <P>Codingal will help you fall in love with Codingal</P>
+    </div>
+</div>
+<div class="container mt-3">
+    <h2> Buttons</h2>
+    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-warning">warning</button>
+    <button type="button" class="btn btn-success">success</button>
+    <button type="button" class="btn btn-danger">danger</button>
+    <button type="button" class="btn btn-secondary">secondary</button>
+    <button type="button" class="btn btn-dark">dark</button>
+    <div class="container">
+        <h2>Contextual Badges</h2>
+        <span class="badge badge-primary">Primary</span>
+        <span class="badge badge-warning">warning</span>
+        <span class="badge badge-success">succes</span>
+        <span class="badge badge-danger">Danger</span>
+        <span class="badge badge-secondary">secondary</span>
+        <span class="badge badge-dark">dark</span>
+    </div> <br>
+    <div class="container">
+        <button type="button" class="btn btn-primary" button type="button" >
+            inbox <span class="badge badge-warning">1</span>
+
+        </button>
+
+    </div> <br>
+
+    <div class="progress">
+        <div class="progress-bar bg-danger" style="width:65%">65%</div>
+    </div>
+
+    </div>
+
+
+    
+</body>
+</html>
