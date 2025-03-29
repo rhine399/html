@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<style>
+    body{
+        background-color: rgb(226, 226, 148);
+    }
+</style>
+<body>
+    <div class="container">
+        <h2>Carousel Example</h2>
+        <div id="mycarousel" class="carousel slide" data-ride="carousel">
+            <!--indicators-->
+            <ol class="carousel-indicators">
+                <li data-target="#mycarousel" data-slide-to="0" class="active">
+                </li>
+                <li data-target="#mycarousel" data-slide-to="1"> </li>
+                <li data-target="#mycarousel" data-slide-to="2"> </li>
+                <li data-target="#mycarousel" data-slide-to="3"> </li>
+            </ol>
+        
+    <!--wrapper for slides-->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="https://www.worldanimalprotection.us/siteassets/images/wildlife/kangaroos/tall-kangaroo-getty.jpg" 
+             alt="pic 1">
+        </div>
+            <div class="item">
+                <img src="https://t4.ftcdn.net/jpg/07/64/84/57/360_F_764845724_6zL7rCEhxk9olCJJpPGNf8hRWTFqfHGZ.jpg" 
+                 alt="pic 2">
+            </div>
+            
+                <div class="item">
+                <img src="https://media.tenor.com/YsHddbNxpHgAAAAe/evil-larry-larry.png" 
+                 alt="pic 2">
+            </div>
+            
+
+
+    </div>
+    <!--left and right controls-->
+    <a class="left carousel-control" href="" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">previous</span>
+    </a>
+    <a class="right carousel-control" href="#mycarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">next</span>
+    </a>
+</div>
+</div>
+    
+</body>
+</html>
