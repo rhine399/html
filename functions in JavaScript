@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello,World!</title>
+</head>
+<body>
+    <p id="demo"></p>
+    <p id="demo1"></p>
+    <p id="demo2"></p>
+
+    <button onclick="ami(8,7)">Click me!</button>
+    <script>
+        function sum(a,b){
+            document.write(a+b+"<br>")
+        }
+        sum(5,6)
+        sum(9,7)
+        sum(329298742371,981239630632776012732023)
+        var result = function(a,b) {return a * b} ;
+        document.write(result(6,8))
+        function ami(x,y)
+        {document.write(x+y)}
+    
+
+    
+        var b=5;
+        function myfunction() {
+            var a=4;
+            document.getElementById("demo").innerHTML = b * a;}
+            document.getElementById("demo2").innerHTML = b;
+            document.write(myfunction())
+    </script>
+
+
+        
+
+    
+
+
+    
+    
+</body>
+</html>
