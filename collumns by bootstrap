@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href=
+
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src=
+    
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+    
+    </script>
+</head>
+<style>
+    .col {
+        text-align: center;
+        border:1px solid rgb(217, 5, 5)
+    }
+</style>
+<body>
+    <h3>What's New</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                What I know
+            </div>
+            <div class="col">
+                What I Want To Learn
+            </div>
+            <div class="col">
+                What I learned
+            </div>
+
+
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                Arnis is a Filipino sport.
+            </div>
+            <div class="col">
+                How the arnis grow in the Philipines.
+            </div>
+            <div class="col">
+                I learned the history of arnis
+            </div>
+
+
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <b>1.</b> is a self defense sport.<br>
+              <b>2.</b>  Arnis is from Philipines. <br>
+                <b>3.</b>Arnis using a 2 stick.
+
+            </div>
+            <div class="col">
+           <b>1.</b> How to use arnis properly. <br>
+           <b>2.</b>How the Filipino adpot the arnis from the spaniards. <br>
+           <b>3.</b>How to become Arnis player.
+            </div>
+            <div class="col">
+            <b>1.</b> I learned some stance that have been used on arnis. <br>
+            <b>2.</b>Spaniards bought the Arnis to Philipines. <br>
+            <b>3.</b>Arnis known as eskrima,kali and garrote.
+            </div>
+
+
+        </div>
+    </div>
+    
+</body>
+</html>
