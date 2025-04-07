@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+    body{
+        background-color: rgb(152, 46, 214);
+    }
+</style>
+</head>
+<body>
+    <h1 style="color: rgb(104, 203, 233);">Abreviations</h1>
+    <p>It is used to mark up an Abreviation or acronym.</p>
+    <p><abbr title="as soon as possible" style="color: rgb(55, 210, 86);">ASAP.</abbr></p>
+    <h1 style="color: rgba(236, 183, 26, 0.9);">Blockquotes</h1>
+    <p>It is used to present content from another source.</p>
+    <blockquote class="blockquote">
+        <p>What's up.</p>
+        <footer class="blockquote-footer" style="color: rgb(231, 54, 35);">Humayra Ms</footer>
+    </blockquote>
+    <h1 style="color:rgb(177, 30, 113) ;">Multiple Code Lines</h1>
+    <p> For multiple lines of codes,use the pre element.</p>
+    <pre style="color: rgb(161, 15, 15);">
+        Codingal is on a mission to inspire all the  <strong>cool</strong> kids.
+    </pre>
+    <h1 style="color: rgb(6, 40, 74);">keyboard inputs</h1>
+    <p>use <kbd>ctrl=p</kbd> to open the print diologue box.</p>
+    <div class="container">
+        <h1 style="color: hotpink;">code snippets</h1>
+        <p>the following HTML elements:<code>span</code>
+            <code>section</code> and <code>div</code> defines a section in a Document.</p>
+    
+    </div>
+    
+</body>
+</html>
