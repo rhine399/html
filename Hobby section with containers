@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <h1 style="color: rgb(109, 45, 170);">My Hobbies:</h1>
+    <div class="container  pb-5 mb-3 bg-danger text-warning" >
+        <h1>Reading</h1>
+        <p>The books that I have read: <br> </p>
+            <table border="2">
+                
+           
+                   
+                   
+                
+                        <td>Berserk (Kentaro Miura)</td>
+                        <tr>
+                            <td>Paradise Lost (John Milton) </td>
+                            <tr>
+                                <td>Metamorphosis (Franz Kafka)</td>
+                                <tr>
+                                    <td>Harry Potter (J.K Rowling)</td>
+                                    </table> 
+        
+    </div>   
+
+    </div>  
+
+            <div class="container-fluid bg-primary text-dark" >
+                <h1>Painting:</h1>
+                <p>
+                    I am painting in my senior years with the benefit of schooling. I'm learning
+the basics of form, reflective light, color-wheel importance, composition, etc. Still, not everyone can deal with the pressure of
+grades or a structured format. I paint from my heart, expressing what my mind dictates, and there are no schools that teach
+that. I give myself new challenges, just to see if I can produce this vision on canvas to my own satisfaction. You don't have to
+have a certificate to do that.
+                </p></div>
+
+                                    <div class="container p-5 m-5 bg-success text-warning" >
+                                        <h1>Music:</h1>
+                                        <p>Music has always been a big part of my life. From a young age, I was always surrounded by music, whether it was my parents playing music around the house or listening to songs by myself. As I grew older, I developed a deep passion for music and instruments, which quickly became my favorite hobby.
+
+                                            There is something so magical about music that speaks to me on a deep emotional level. The way a melody can convey a range of emotions, the way lyrics can tell a story, and the way a beat can make you feel alive – music has a way of touching the soul in a way that nothing else can.</p>
+                                        </div>
+</body>
+</html>
