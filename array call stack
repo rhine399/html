@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        color: rgb(102, 74, 40);
+        background-color: rgb(144, 111, 174);
+    }
+
+</style>
+<body>
+    <h2>Javascript Arrays</h2>
+    <p id="demo"></p>
+    <p id="myjoin"></p>
+    <p id="myfirstpop"></p>
+    <p id="mysecondpop"></p>
+    <p id="camel"></p>
+    <script>
+        function add(a, b) {
+            return a+b
+        }
+
+        function average(a, b) {
+            return add(a, b) / 2;
+        }
+        let result = average(10, 24);
+        document.getElementById("camel").innerHTML = result;
+        var cars = [
+            "coding",
+            "Magic",
+            "learn",
+        ];
+        document.getElementById("demo").innerHTML = cars[1];
+        var fruits = ["Banana", "Orange", "Apple", "Mango"];
+        document.getElementById("myjoin").innerHTML = fruits.join
+        (" x ");
+        document.getElementById("myfirstpop").innerHTML = fruits;
+        fuits.pop();
+        document.getElementById("mysecondpop").innerHTML = fruits;
+        
+
+        
+
+    </script>
+</body>
+</html>
