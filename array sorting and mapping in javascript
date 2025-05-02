@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style> 
+    body {
+        background-color: antiquewhite;
+    }
+    p {
+        color: rgb(67, 108, 47);
+    }
+</style>
+<body>
+    <P>Multiply every element in the aaray with 10</P>
+    <p id="product_value"></p>
+    <p id="product_value2"></p>
+    <button onclick="ascending()">ascending order</button>
+    <button onclick="descending()">descending order</button>
+    <p id="result"></p>
+
+    <script>
+        var numbers = ["mango","banana","apple","guava"]
+
+
+        var newarray = numbers.sort();
+        document.getElementById("product_value").innerHTML = newarray;
+
+        var points = [40,100,1,5,25,30];
+        document.getElementById("result").innerHTML = points;
+        function ascending() {
+            points.sort(function(a,b){return a - b});
+            document.getElementById("result").innerHTML = points;
+        } 
+        function descending() {
+            points.sort(function(a,b){return b - a});
+            document.getElementById("result").innerHTML = points;
+        }
+      </script>
