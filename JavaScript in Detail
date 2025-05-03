@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        background-color: brown;
+    }
+    p {
+        color: bisque;
+    }
+    h1{
+        color: rgb(20, 79, 59);
+    }
+</style>
+<body>
+    <h1>The JavaScript String() Method</h1>
+
+    <p>The String() method can convert a number to a string.</p>
+      
+
+    <p id="number_result"></p>
+    <p id="string_result"></p>
+    
+    <p id="error_message"></p>
+    <p id="result"></p>
+
+
+    <script>
+        var x = 59867.760;;
+        var y = 90;
+        document.getElementById("number_result").innerHTML = x+y;
+        document.getElementById("string_result").innerHTML = String(x)
+        + String(y); // Does not add because it is a string it concatenates;
+
+
+        try {
+            var x=10
+            document.write(x+z)
+        }
+        catch(err) {
+            document.getElementById("error_message").innerHTML =
+            err.message;
+        }
+        document.write("after error"+"<br>")
+           
+
+
+        add = (a,b) => a+b;
+        document.getElementById("result").innerHTML = add(4,6)
+
+
+        var r=10
+        var q=20
+        document.write("r+q"+"<br>")
+        document.write(eval("r+q"))
+
+    </script>
+</body>
+</html>
