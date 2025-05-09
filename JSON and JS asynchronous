@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>json project</title>
+</head>
+<body>
+    <h2>Convert a JavaScript object into a JSON string,and send it to 
+        the server
+    </h2>
+    <p id="result"></p>
+    <p id="result2"></p>
+    <script>
+        var myObj = { name: "Dr yunus", age: 2, grade: 7};
+        var myJSON = JSON.stringify(myObj); // converts object to JSON for sending data
+        var newObj = JSON.parse(myJSON); // converts JSON into object while receiving data
+        document.getElementById("result").innerHTML = newObj.name + newObj.age;
+        
+        function myDisplayer(value) {
+            document.getElementById("result2").innerHTML = value;
+        }
+        function myCalculator(num1, num2, myCallback) {
+            let sum = num1 + num2;
+            myCallback(sum);
+        }
+        myCalculator(100000000000, 5, myDisplayer);
+        
+    </script>
+
+
+
+    <script>
+        function myDisplayer(some) {
+            document.getElementById("demo").innerHTML = some;
+        }
+        function sum(a,b){
+            var sum = a + b;
+            myDisplayer(sum);
+        }
+        let myPromise = new Promies(function(myResolve,myReject)) {
+            // producing code may take some time
+            let x = 0; // some code (try to change x to 5)
+
+            if (x== 0) {
+                myResolve ("OK"); // when error
+            }
+        };
+        // consuming code - must wait for fulfilled promise
+        mypromise.then(
+            function(value) {sum(5,5);}, // code is succesfull
+            function(error) {sum(error);} // code is error
+        );
+    </script>
+</body>
+</html>
