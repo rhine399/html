@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <P>You can find the area of ​​a triangle here.</P> 
+   <script>
+    var h =prompt("bro height diba na?")
+     var b =prompt("base er maan na dile hobe?")
+     var area= 0.5* Number(h)*Number(b)
+     alert("areh mama triangle er area holo"+ area)
+
+   </script>
+</body>
+</html>
