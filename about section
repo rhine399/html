@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Bootstrap CSS -->
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+
+<!-- My CSS -->
+
+<link rel="stylesheet" href="style.css" />
+
+<!-- Font Awesome -->
+
+<script src="https://kit.fontawesome.com/996973c893.js"></script>
+
+<!-- Google Fonts -->
+
+<link
+
+href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+
+rel="stylesheet" />
+</head>
+<style>
+    body {
+        background-color: black;
+    }
+    .about {
+        background:#000000;
+        border-radius: 0.5rem;
+    }
+    .about img {
+        padding: 200px;
+    }
+
+</style>
+<body>
+    <!--About Section-->
+    <div id="about" class="container about p-5">
+        <div class="row">
+            <div class="col-6">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7OK9_RGgyRLEunEfGTL9ml96WMkTexyFKQ&s" />
+            </div>
+            <div class="col-6 pl-5 pt-5 pb-5 text-danger">
+                <h3 class="text-white">About Codingal</h3>
+                <h1 class="m-heading">A little bit about Codingal</h1>
+                <p>
+
+
+                    <b class="text-warning">Codingal </b> is on a mission to inspire 
+                    school kids to <b class="text-warning">fall in love with</b>
+                    <b class="text-white">coding</b>
+                
+                </p>
+                <br>
+                <p>
+                        In today's age, <b class="text-warning">coding</b> has become an essential skill.
+                        coding for kids helps them in there <b class="text-warning">"Holistic development",</b>
+                        means evolving cognitive,physical, and social skills of a good person.
+                </p>
+                <button class="btn btn-outline-danger">learn more</button>
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>
